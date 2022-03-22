@@ -75,7 +75,7 @@ DB : MySQL 8.0.27
 ## :open_file_folder: 패키지 구조 
 
 ## :curly_loop: 테이블 구조   
-![poster](./image.png)
+![poster](./mwb.JPG)
 
 
 
