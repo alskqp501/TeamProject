@@ -1,4 +1,4 @@
-# TeamProject 어디가지 ?  [http://3.38.49.175:8080/prepare]
+# TeamProject 어디가지 ?  []
 
 
 :banana: **목차** 
